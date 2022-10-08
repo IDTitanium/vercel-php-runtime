@@ -1,7 +1,7 @@
 {
   "name": "vercel-php-runtime",
   "description": "Vercel PHP runtime",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "./dist/index.js",
   "homepage": "https://github.com/IDTitanium/vercel-php-runtime",
