@@ -1,13 +1,13 @@
 {
-  "name": "vercel-php",
+  "name": "vercel-php-runtime",
   "description": "Vercel PHP runtime",
-  "version": "0.5.2",
+  "version": "0.1.0",
   "license": "MIT",
   "main": "./dist/index.js",
-  "homepage": "https://github.com/juicyfx/vercel-php",
+  "homepage": "https://github.com/IDTitanium/vercel-php-runtime",
   "repository": {
     "type": "git",
-    "url": "https://github.com/juicyfx/vercel-php.git"
+    "url": "https://github.com/IDTitanium/vercel-php-runtime.git"
   },
   "keywords": [
     "vercel",
@@ -31,7 +31,7 @@
     "conf"
   ],
   "dependencies": {
-    "@libphp/amazon-linux-2-v81": "latest"
+    "@libphp/amazon-linux-2-v74": "latest"
   },
   "devDependencies": {
     "@types/glob": "^7.1.2",
